@@ -1,1 +1,14 @@
 
+## 🛠️ Featured Component: Professional Portfolio Footer
+
+A fully responsive and dynamic Footer component built with React and CSS Flexbox.
+
+### 💡 Key Logic Implemented:
+- **Scalable List Rendering:** Used `.map()` for Social Links, Services, and Quick Links to keep JSX dry and clean.
+- **Responsive Flexbox Layout:** Used `flex-wrap: wrap` and `min-width` to ensure the footer looks great on mobile, tablets, and desktops.
+- **Modern UI/UX:** Added smooth CSS transitions and hover effects for better user interaction.
+- **Clean Architecture:** Separated data arrays from the return statement for better readability.
+
+### 🎨 Design Highlights:
+- **Color Palette:** Dark-themed (#1a1a1a) with React-blue (#61dafb) accents.
+- **Typography:** Clear hierarchy with bordered headings and subtle link transitions.
