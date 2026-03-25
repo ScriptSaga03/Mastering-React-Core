@@ -1,1 +1,18 @@
 
+# 🎨 Destination Mood Board
+
+A React-based visual collage application that showcases reusable components and dynamic data rendering.
+
+### 🚀 Key Features
+- **Reusable Components:** Created a `MoodBoardItem` component to handle individual cards.
+- **Dynamic Styling:** Implemented inline CSS to change background colors based on props.
+- **Efficient Rendering:** Used the `.map()` method to render a list of items from a data array.
+- **Clean Props Passing:** Used the JavaScript Spread Operator (`...`) to pass data efficiently.
+
+### 🛠️ Tech Used
+- React.js (Functional Components)
+- JSX & Inline Styling
+- ES6+ JavaScript (Destructuring, Spread Operator)
+
+### 📸 Project Logic
+The project transforms a static array of destination objects into a beautiful, responsive grid without repeating HTML code.
