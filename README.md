@@ -2,6 +2,13 @@
 # 🚀 React Logic & Component Mastery
 Welcome to my React learning repository! After solidifying my JavaScript logic, I am now rebuilding my React foundation with a focus on **clean code, reusable components, and dynamic data handling.**
 
+
+
+### 🛠️ Projects Showcase
+- **Mood Board:** Data-driven image collage with dynamic background colors.
+- **Responsive Footer:** Professional layout using Flexbox and Array Mapping.
+
+
 ### 🛠️ What's inside?
 - **Logic-Driven Components:** Moving beyond basic UI to functional, data-driven elements.
 - **Dynamic Mood Board:** A project showcasing Props, Inline Styles, and Array Mapping.
