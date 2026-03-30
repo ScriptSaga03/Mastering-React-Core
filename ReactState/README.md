@@ -2,7 +2,7 @@
 
 A professional, high-performance shopping list application built to master **React State Management**, **Hooks**, and **LocalStorage Persistence**. This project is part of my "React Core Mastery" series.
 
-## 🚀 Live Demo
+## 🚀 Live Demo  https://mastering-react-core.onrender.com
 
 ## ✨ Key Features
 - **Full CRUD Operations:** Add, Edit, Update, and Delete grocery items seamlessly.
