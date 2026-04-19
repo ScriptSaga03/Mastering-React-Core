@@ -1,1 +1,23 @@
 
+# 🔍 SmartSearch - Dynamic User Directory
+
+A fast and responsive React application that allows users to search through a directory in real-time with smooth UI animations.
+
+## 🚀 Features
+- **Real-time Search:** Filter users by Name, Role, or Email instantly.
+- **Modern UI:** Clean grid layout with premium card designs.
+- **Dynamic Animations:** Interactive search bar that expands on focus with a glow effect.
+- **Responsive Design:** Works perfectly on Mobile, Tablet, and Desktop.
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js
+- **Styling:** Custom CSS / Inline Styles
+- **Deployment:** Render
+
+## 💡 What I Learned
+- Managing complex states in React.
+- Implementing efficient array filtering logic.
+- Creating reusable components.
+- Handling focus and blur events for better UX.
+
+## 📸 Demo => https://projsmartsearch.onrender.com/
