@@ -9,7 +9,7 @@ export const SearchInput = ({ searchTerm, onSearchChange }) => {
     outline: 'none',
     borderRadius: '12px',
     backgroundColor: '#f3f4f6',
-    width: isFocused ? '450px' : '250px',
+    width: isFocused ? '80vw' : '250px',
     borderColor: isFocused ? '#3b82f6' : 'transparent',
     boxShadow: isFocused
       ? '0px 10px 25px rgba(59, 130, 246, 0.2)'
