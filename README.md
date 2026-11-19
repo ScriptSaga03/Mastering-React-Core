@@ -1,4 +1,22 @@
 # Mastering-React-Core
+
+
+REACT LEARNING ROADMAP METHOD
+MODULE 1
+MODULE 2
+MODULE 3
+MODULE 4
+BASICS.JSX
+MODULE 5
+MODULE 6
+MODUEL 7 
+MODULE 8
+
+
+
+
+
+
 # 🚀 React Logic & Component Mastery
 Welcome to my React learning repository! After solidifying my JavaScript logic, I am now rebuilding my React foundation with a focus on **clean code, reusable components, and dynamic data handling.**
 
